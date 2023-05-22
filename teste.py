@@ -4,3 +4,4 @@ b = 20
 
 print(b / a)
 
+print(20 // 7)
