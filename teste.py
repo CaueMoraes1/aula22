@@ -1,7 +1,11 @@
 #Comentário para exemplo de commit
-a = 7
-b = 20
+a = 2
+b = 10
 
-print(b / a)
+print(a + b)
 
-print(20 // 7)
+print(a * b)
+
+print(b /a)
+
+print(b // a)
